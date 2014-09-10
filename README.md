@@ -36,4 +36,4 @@ To add a problem in _Failure Analysis_ the pattern from the log for a specific e
 
 ![](http://i.imgur.com/7oOTP9P.jpg)
 
-
+JAG HAR ÄNDRAT
